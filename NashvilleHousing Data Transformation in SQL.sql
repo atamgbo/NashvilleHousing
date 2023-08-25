@@ -1,18 +1,3 @@
-/*
-Cleaning Data in SQL Queries
-In any data analysis, we identify the problem to suppport everyday business decisions and collect the data for our analysis.
-This project shows the next step in the process, which is data cleaning and preparation.
-In this project, the data was cleaned using SQL after importing our data from its data source.
-This data is a Housing Data from the city of Nashville
---Standardize Date Format
---Populate property address data
---Populate Property address data
---Breaking out address into individaul Columns (Address, City, State)
---Splitting the address from city
---Change Y and N to Yes and No in "Sold as Vacant" field
---Delete Unused Columns
-*/
-
 Select*
 From PortfolioP..NashvilleHousing
 
